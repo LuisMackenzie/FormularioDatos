@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="dialog_title">Datos Recolectados</string>
+    <string name="dialog_ok">Limpiar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="help_required">Obligatorio</string>
+    <string name="help_min_valid_height">Debe ser mayor de 50cm</string>
+</resources>

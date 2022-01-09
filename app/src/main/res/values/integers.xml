@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="name_max_lenght">30</integer>
+    <integer name="height_max_lenght">3</integer>
+    <integer name="date_birth_max_lenght">80</integer>
+    <integer name="notes_max_lenght">120</integer>
+</resources>
